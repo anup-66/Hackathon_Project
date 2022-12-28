@@ -1,0 +1,79 @@
+﻿Cluster ID,confidence_score,Id,Name,Address,Zip,Phone
+0,0.9092594337895592,1,Anup Kumar,"Hno – 0135 Om Colony, Mirza Toli, Uttarwari Bethah",845438,7970954003
+0,0.8246668190533634,2,Anup K,"Om Colony, Mirza Toli",845438,7970954003
+4,0.9165942241835945,3,Chakrika Anousha,"Hno – 2-22-96/4, Nmrata Avenue, kukatpally, Hydrabad",500097,8374741101
+12,1.0,4,pallavi,"fatima hospital road near Dr. Ramesh goel, Post-arogya mandir",273003,9838146453
+1,0.7490951353529387,5,anup k,Greenland area,845549,7971854003
+2,0.9199174818220559,6,Anup,"Hno – 3510, Badshah Nagar, Woodland area, Mumbai",844092,7976544003
+13,1.0,7,Preetham,"Pedapulipaka Main Road, Yanamalakuduru, Ramalingeswara Nagar, Vijayawada, Andhra Pradesh 520007",956341,8303759462
+14,1.0,8,Anshika,SALARPUR POST-RASHOOLGARH VARANASI Varanasi Uttar Pradesh,545432,8125455776
+15,1.0,9,Pallavi Prajapati,"Hno – 554 PO – Arogya Mandir Near vishah Vaibhav Marriage house, Gorakhpur",273003,8867534274
+6,0.9197065764616139,10,Aryan Prajapati,"Hno – 553A Ganga Nagar, PO – Arogya Mandir Near vishah Vaibhav Marriage house, Gorakhpur",273003,8840219877
+16,1.0,11,pallavi prajapati,"Hno – 553A Ganga Nagar, PO – Arogya Mandir Near vishah Vaibhav Marriage house, Gorakhpur",273003,9838135837
+17,1.0,12,aryanp,"Badshah Nagar, Khalilabad",223234,6640213456
+10,0.9317334362379653,13,AditiShaw,"Hno - 240 Indraprasth colony, Building 10th Floor, Gujrat",870016,8932250982
+18,1.0,14,Neha,"Lok Kalyan Marg, formerly 7, Race Course Road",200061,9335345044
+4,0.8521233344171529,15,Chakrika Anousha,Hydrabad,500097,8374741101
+5,0.932215034579402,16,chakrika anousha,"Hno – 876 Ramkumar colony, vijaywada, Andra Pradesh",511079,7383811012
+19,1.0,17,aryanprajapati,"Bala Nagar, chandighar",445632,9989767543
+20,1.0,18,anup kumar,"Bala Nagar, chandighar",445632,8840345277
+9,0.9286053,19,Aditi Pathak,"Hno – 554, Asuran Churaha, vitap colony, Singapur",273013,7524080880
+9,0.9286053,20,Aditi P,"Asuran Churaha, vitap colony",273013,7524080880
+21,1.0,21,Trisha,"Mumbai, Maharashtra, India",700004,9441307779
+22,1.0,22,pallavi srivastava,"ganga Nagar, nagpur",767563,9575386282
+2,0.9179621838177618,23,anupkumar,"Badshah Nagar, Mumbai",844092,7976544003
+2,0.9225948882399373,24,anupk,"Badshah Nagar, Woodland area",844092,7976544003
+3,0.9554319973615563,25,Anup kumar,"Pavitrata Colony, maharashtra",884067,8770954113
+7,0.9243139251992597,26,Pallavi Singh,"Khajanchi chauraha fatima hospital road near Dr. Ramesh goel, Post-arogya mandir, Gorakhpur",273003,9838145837
+7,0.8910736222494671,27,Pallavi S,"fatima hospital road near Dr. Ramesh goel, Post-arogya mandir",273003,9838145837
+7,0.8882682466905216,28,Pallavi,"Khajanchi chauraha, Post-arogya mandir",273003,9838145837
+6,0.9059406907719423,29,Aryan P,"PO – Arogya Mandir, Near vishah Vaibhav Marriage house",273003,8840219877
+6,0.9197754883723236,30,Aryan,"Ganga Nagar, PO – Arogya Mandir Near vishah Vaibhav Marriage house",273003,8840219877
+6,0.8633634167031738,31,aryan prajapati,Near vishah Vaibhav Marriage house,273003,8840219877
+7,0.879947952356192,32,pallavi singh,"near Dr. Ramesh goel, Post-arogya mandir,",273003,9838145837
+7,0.8930803976546469,33,pallavisingh,"Khajanchi chauraha fatima hospital road near Dr. Ramesh goel, Post-arogya mandir, Gorakhpur",273003,9838145837
+23,1.0,34,Aarushi,"Harijanawada, 5-21, Thotlavalluru, Andhra Pradesh",200071,9002476328
+6,0.9209303731982931,35,aryan p,"Ganga Nagar, Near vishah Vaibhav Marriage house",273003,8840219877
+6,0.8648950922365497,36,aryan,"Ganga Nagar, Gorakhpur",273003,8840219877
+8,0.9325274222277301,37,Aryan Prajapati,"Hno – 456, chirauli bazar, mangarpur, gauribazar, Uttar Pradesh",276006,8840403093
+24,1.0,38,chakrika,"Achen singh chauraha, hydrabad",667564,7788402198
+25,1.0,39,aditi,"asuran chauraha, kali mandir",273114,8840402020
+26,1.0,40,Mehul,"B-09, G-10, Ground Floor, Mourya House, Next to VIP Plaza",853421,8920229784
+27,1.0,41,Rahul Chaturvadi,"shabitali chauraha, vidyamandi, gorakhpur",986754,9455963751
+5,0.9226656745903392,42,chakrika a,"Hno –876 Ramkumar colony, vijaywada",511079,7383811012
+5,0.8645033455539343,43,chakrika,Ramkumar colony,511079,7383811012
+11,0.9165671836523652,44,Aditi Shaw,"110/H/14, Elloit Road, Vijay Gupta, Building, 4th Floor, Kolkata",700016,9432250294
+11,0.9300778221380233,45,Aditi S,"Elloit Road, Vijay Gupta, Building, 4th Floor",700016,9432250294
+5,0.8622312854148327,46,chakrika anousha,vijaywada,511079,7383811012
+28,1.0,47,chakrika anousha,Hno – 334 Amravati,711097,6388110127
+1,0.8541669384357169,48,AnupKumar,"Hno-889A, Ramjanki Nagar , Greenland area Uttar Pradesh",845549,7971854003
+1,0.8676298204875842,49,AnupK,"Ramjanki Nagar , Greenland area",845549,7971854003
+1,0.7986226328929323,50,anup kumar,Ramjanki Nagar,845549,7971854003
+29,1.0,51,Aditi Srivastava,"Hno – 667, Achen singh chauraha, Tamil Nadu",273235,8858709096
+30,1.0,52,Aditi S,Achen singh chauraha,273235,8858709096
+31,1.0,53,aryanprajapati,"mangarpur, gauribazar",276006,8840403093
+32,1.0,54,aryanp,"mangarpur, Uttar Pradesh",276006,8840403093
+29,1.0,51,aryan,"Hno – 989, manasthapur, Khalilabad",364002,7740218977
+30,1.0,52,Kathik,"Galaxy Apartments, BJ Road Band Stand, Bandra West, Mumbai, Maharashtra",767678,8789921600
+31,1.0,53,Karthika,"Mannat, Land's End, Bandstand, Bandra (West), Mumbai, Maharashtra",255531,9404262734
+32,1.0,54,pallavi singh,"Hno – 554 PO – Arogya Mandir Near vishah Vaibhav Marriage house, Gorakhpur",273003,9838235132
+8,0.9325274222277301,55,aryan,"chirauli bazar, mangarpur, gauribazar",276006,8840403093
+33,1.0,56,Rahul singh,"karamchandra park, babul ali, gorakhpur",908741,9007867378
+3,0.9554319973615563,57,Anup k,Pavitrata Colony,884067,8770954113
+34,1.0,58,anup Kumar,Ramjanki Nagar,674532,9898411395
+11,0.9140149342075216,59,Aditi,"Vijay Gupta, Building, 4th Floor",700016,9432250294
+11,0.916420522761496,60,aditi,"Elloit Road, Building, 4th Floor",700016,9432250294
+35,1.0,61,Chakrika,vijaywada,878642,6798534211
+36,1.0,62,Chakrika,MB Moters Gorakhpur,543243,6798763412
+10,0.9462874401944417,63,AditiS,"Indraprasth colony, Building 10th Floor",870016,8932250982
+10,0.9388285584894464,64,aditi,Indraprasth colony,870016,8932250982
+4,0.9073092927799409,65,Chakrika A,"Nmrata Avenue, kukatpally",500097,8374741101
+37,1.0,66,aditi Panday,"Karim Nagar, Goa",657483,9585382926
+38,1.0,67,Vrushti,No.982/948 B.R Hills Road Chamrajanagar Chamrajnagar,344454,7355481249
+39,1.0,68,Varnika,"No:48, 1st floor, 1st cross street 2nd Main Road",101012,9740634982
+40,1.0,69,anup K,Transport nagar,989809,6309465651
+0,0.7828624340783512,70,Anup K,Uttarwari Bethah,845438,7970954003
+4,0.8634014986277292,71,Chakrika,Nmrata Avenue,500097,8374741101
+41,1.0,72,Iahika,"PODDAR POINT113, PARK STREET, BLOCK-A, 1ST FLOOR, Kolkata",266532,9026212539
+0,0.8242533709040247,73,anup,Mirza Toli,845438,7970954003
+42,1.0,74,Subhangi,Station Road Ichalkaranji Kolhapur,954093,7702525379
